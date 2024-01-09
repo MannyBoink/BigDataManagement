@@ -1,8 +1,7 @@
--------------------------------------------------------------------F23-CS226-Readme-------------------------------------------------------------------------------------------- 
-Exploring the Global Job Market : A Big Data Analysis of International Job Postings
------------------------------------------------------------------------------------
-(Mis)Fortune-500
-----------------
+# F23-CS226-Readme
+## Exploring the Global Job Market : A Big Data Analysis of International Job Postings
+### (Mis)Fortune-500
+
 ---Member Names---
 Manish Deepak Chugani, mchug002@ucr.edu, 862388066
 Tejas Milind Deshpande, tdesh006@ucr.edu, 862393211
