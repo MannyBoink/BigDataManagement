@@ -29,11 +29,11 @@ Click the Get Images button to retrieve the images for analytics shown in the ab
 
 If there is a permission issue, please request access and drop a message to mchug002@ucr.edu to provide the access.
 
--------------------Author Contributions-----------------------------------------------------
-(Mis)Fortune-500:
-
-Manish Deepak Chugani: Choropleths and Analytic Visualizations along with PySparkSQL Queries
-Tejas Milind Deshpande: Data Cleaning, PySparkSQL Queries and RDBMS comparison.
-Sumedha Girish Atreysa: Data Cleaning, Schema Definition and Pre-processing.
-Nunna Lakshmi Saranya: Data Cleaning, Integration and Combination of Dataframes.
-Xinle Chen: Pandas Dataframe comparison and Front-end.
+-------------------Author Contributions-------------------------  
+(Mis)Fortune-500:  
+  
+Manish Deepak Chugani: Choropleths and Analytic Visualizations along with PySparkSQL Queries  
+Tejas Milind Deshpande: Data Cleaning, PySparkSQL Queries and RDBMS comparison.  
+Sumedha Girish Atreysa: Data Cleaning, Schema Definition and Pre-processing.  
+Nunna Lakshmi Saranya: Data Cleaning, Integration and Combination of Dataframes.  
+Xinle Chen: Pandas Dataframe comparison and Front-end.  
