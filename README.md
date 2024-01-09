@@ -3,11 +3,11 @@
 ### (Mis)Fortune-500
 
 ---Member Names---
-Manish Deepak Chugani, mchug002@ucr.edu, 862388066
-Tejas Milind Deshpande, tdesh006@ucr.edu, 862393211
-Sumedha Girish Atreysa, satre002@ucr.edu, 862395753
-Nunna Lakshmi Saranya, nsara014@ucr.edu, 862394536
-Xinle Chen, xchen440@ucr.edu, 862334534
+Manish Deepak Chugani, mchug002@ucr.edu, 862388066  
+Tejas Milind Deshpande, tdesh006@ucr.edu, 862393211  
+Sumedha Girish Atreysa, satre002@ucr.edu, 862395753  
+Nunna Lakshmi Saranya, nsara014@ucr.edu, 862394536  
+Xinle Chen, xchen440@ucr.edu, 862334534  
 
 There are 3 main Jupyter Notebooks available for viewing the results of MisFortune-500's architecture.
 
